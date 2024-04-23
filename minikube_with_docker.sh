@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Define the image and service names
+# Define the image and service names - monday
 image_name="docker-asa-image"
 service_name="docker-asa-deployment"
 
